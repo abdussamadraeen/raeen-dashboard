@@ -1,4 +1,4 @@
-# Raeen Dashboard | Elite Architecture
+# Raeen Dashboard
 
 Official landing page and privacy protocol for the **Raeen Dashboard** browser extension.
 
