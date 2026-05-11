@@ -30,7 +30,7 @@ Raeen Dashboard utilizes an **Ethereal Glass / Double-Bezel** architecture, comb
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/NewTab_Lite.git
+   git clone https://github.com/abdussamadraeen/Raeen-Dashboard.git
    ```
 2. **Open Chrome/Edge**: Navigate to `chrome://extensions` or `edge://extensions`.
 3. **Enable Developer Mode**: Toggle the switch in the top right corner.
